@@ -2,7 +2,8 @@
 Mitra – A Smart Multimodal Virtual Assistant  Mitra is an advanced virtual assistant designed to enhance user interaction through voice commands, hand gestures, and facial recognition. It supports both English and Kannada.
 
 
-✨ ***Features***
+## ✨ Features
+
 **Voice Assistant** – Execute commands using natural language processing.
 **Multilingual Support** – Recognizes and responds in English, Kannada, and Hindi.
 **Hand Gesture Recognition** – Perform actions like opening applications using predefined gestures.
@@ -10,7 +11,8 @@ Mitra – A Smart Multimodal Virtual Assistant  Mitra is an advanced virtual ass
 
 
 
-🔧 ***Tech Stack***
+## 🔧 Tech Stack
+
 **Python** – (version 3.9.10) Backend logic and processing.
 **MediaPipe** – Hand gesture tracking.
 **OpenCV** – Facial recognition and authentication.
